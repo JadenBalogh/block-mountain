@@ -411,5 +411,5 @@ MonoBehaviour:
   gridSize: 100
   gridScale: 0.5
   perlinSeed: 0
-  perlinScale: 0.2
+  perlinScale: 0.4
   maxHeight: 5
